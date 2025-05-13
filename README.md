@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tayl0rH , just Taylor for anyone ^^
 - 👀 I’m interested in reading, music, games, drawing. Mostly games.
-- 🌱 I’m currently learning Java, XML, XMLSchema, HTML, CSS, JavaScript, SQL.
+- 🌱 I’m currently learning Java, Angular, SQL.
 - 💞️ I’m looking to collaborate on gaming.
 - 📫 How to reach me taylorher0601@gmail.com
 - 😄 Pronouns: they/them
