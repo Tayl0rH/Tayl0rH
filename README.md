@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tayl0rH , just Taylor for anyone ^^
 - 👀 I’m interested in reading, music, games, drawing. Mostly games.
-- 🌱 I’m currently learning PHP, Laravel, Angular, TypeScript, TailwindCss.
-- 💞️ I’m looking to collaborate on gaming.
+- 🌱 I’m currently learning AngularCLI, Spring, Redux
+- 💞️ I’m looking to collaborate on gaming on the future.
 - 📫 How to reach me taylorher0601@gmail.com
 - 😄 Pronouns: they/them
 - ⚡ Fun fact: I am the fun fact!
